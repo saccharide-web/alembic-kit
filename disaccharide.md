@@ -31,9 +31,9 @@ Reduzierende Zucker, also Zucker die im alkalischen als Reduktionsmittel auftret
 Damit ein Zucker eine reduzierende Wirkung haben kann, muss im Molekül eine halbacetalische OH-Gruppe vorliegen, wodurch eine Ringöffnung möglich wird. In alkalischem Milieu und unter Hitzezufuhr kann die bei der Ringöffnung entstehende Aldehydgruppe (-CHO) zu einer Carboxygruppe (-COOH) oxidiert
 werden, während die im Reagenz gelösten Kupfer(II)-Ionen zu Kupfer(I)-Ionen reduziert werden und sich Kupfer(I)-oxid bildet.
 Nach dem Donator-Akzeptor-Prinzip fungiert die Aldehydgruppe des Kohlenhydrats als Reduktionsmittel (Donator) und die Kupfer(II)-Ionen als Oxidationsmittel (Akzeptor). Es handelt sich um eine Redox-Reaktion:
-{% include figure.html image="/assets/benedict-reaktion.png" position="center" %}
+{% include figure.html image="/assets/benedict-reaktion.png" position="center" %}<br/><br/>
 
-{% include figure.html image="/assets/benedict-redox.png" caption="Teilgleichungen mit Oxidationszahlen" position="center" %}
+{% include figure.html image="/assets/benedict-redox.png" caption="Teilgleichungen mit Oxidationszahlen" position="right" %}
 
 Da die Bildung von Kupfer(I)-oxid und somit eine orange Verfärbung der Lösung also nur bei reduzierenden Zuckern erfolgt, lassen sich diese ohne Kenntnis der Proben nachweisen.
 ### Durchführung - Ansetzen der Reagenz
