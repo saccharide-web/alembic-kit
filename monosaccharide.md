@@ -40,7 +40,7 @@ Bei der Fructose handelt es sich um eine **Ketohexose**, da sie sechs C-Atome en
 Monosaccharide, also Einfachzucker, lassen sich experimentell mithilfe der Barfoed’schen Probe von Mehrfachzuckern unterscheiden.
 
 In saurem Milieu und unter Hitzezufuhr wird die Aldehydgruppe (-CHO) einer Aldose zur Carboxygruppe (-COOH) oxidiert, während die im Reagenz gelösten Kupfer(II)-Ionen zu Kupfer(I)-Ionen reduziert werden und sich Kupfer(I)-oxid bildet.
-Nach dem Säure-Base-Prinzip von Brønsted fungiert die Aldehydgruppe des Kohlenhydrats als Protonenakzeptor (Base) und die Kupfer(II)-Ionen als Protonendonator (Säure).
+Nach dem Donator-Akzeptor-Prinzip fungiert die Aldehydgruppe des Kohlenhydrats als Reduktionsmittel (Donator) und die Kupfer(II)-Ionen als Oxidationsmittel (Akzeptor). Es handelt sich um eine Redox-Reaktion:
 {% include figure.html image="/assets/barfoed-reaktion.png" position="center" %}
 
 Während Monosaccharide bereits nach wenigen Minuten Kochen reagieren, müssen Disaccharide deutlich länger gekocht werden. Oligo-/Polysaccharide reagieren gar nicht.
