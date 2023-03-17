@@ -43,7 +43,7 @@ In saurem Milieu und unter Hitzezufuhr wird die Aldehydgruppe (-CHO) einer Aldos
 Nach dem Donator-Akzeptor-Prinzip fungiert die Aldehydgruppe des Kohlenhydrats als Reduktionsmittel (Donator) und die Kupfer(II)-Ionen als Oxidationsmittel (Akzeptor). Es handelt sich um eine Redox-Reaktion:
 {% include figure.html image="/assets/barfoed-reaktion.png" position="center" %}<br/><br/>
 
-{% include figure.html image="/assets/barfoed-redox.png" caption="Teilgleichungen mit Oxidationszahlen" position="left" %}<br/><br/>
+{% include figure.html image="/assets/barfoed-redox.png" caption="Teilgleichungen mit Oxidationszahlen" position="center" %}
 
 Während Monosaccharide bereits nach wenigen Minuten Kochen reagieren, müssen Disaccharide deutlich länger gekocht werden. Oligo-/Polysaccharide reagieren gar nicht.
 
