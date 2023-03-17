@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Sacchari.de'
+description: 'Website über Kohlenhydrate'
 permalink: pretty
 logo: "/assets/logos/logo.svg"
 
@@ -62,9 +62,8 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
+    description: ""
+    feature_text: ""
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
