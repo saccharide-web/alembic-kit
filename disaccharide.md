@@ -33,6 +33,8 @@ werden, während die im Reagenz gelösten Kupfer(II)-Ionen zu Kupfer(I)-Ionen re
 Nach dem Donator-Akzeptor-Prinzip fungiert die Aldehydgruppe des Kohlenhydrats als Reduktionsmittel (Donator) und die Kupfer(II)-Ionen als Oxidationsmittel (Akzeptor). Es handelt sich um eine Redox-Reaktion:
 {% include figure.html image="/assets/benedict-reaktion.png" position="center" %}
 
+{% include figure.html image="/assets/benedict-redox.png" caption="Teilgleichungen mit Oxidationszahlen" position="center" %}
+
 Da die Bildung von Kupfer(I)-oxid und somit eine orange Verfärbung der Lösung also nur bei reduzierenden Zuckern erfolgt, lassen sich diese ohne Kenntnis der Proben nachweisen.
 ### Durchführung - Ansetzen der Reagenz
 Für 50 mL Benedict-Reagenz werden 8,65 g Natriumcitrat und 5 g Natriumcarbonat in 35 mL Wasser gelöst. Des Weiteren werden 0.86 g Kupfer(II)-sulfat in 10 mL Wasser gelöst. Die Lösungen werden zusammengeführt und auf 50 mL aufgefüllt.
