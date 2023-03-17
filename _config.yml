@@ -34,12 +34,14 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: Startseite
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: Monosaccharide
+  url: /monosaccharide/
+- title: Disaccharide
+  url: /disaccharide/
+- title: Polysaccharide
+  url: /polysaccharide/
 
 # Footer nav
 navigation_footer:
